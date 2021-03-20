@@ -6,9 +6,9 @@ public class PathUtil {
 		String os = System.getProperty("os.name"); //获取操作系统的名称
 		String basePath = "";
 		if(os.toLowerCase().startsWith("win")){
-			basePath = "E:/java/O2O/Image";
+			basePath = "E:/Projects/O2O/Image";
 		}else{
-			basePath = "/java/O2O/Image";
+			basePath = "/Projects/O2O/Image";
 		}
 		basePath = basePath.replace("/",seperator);
 		return basePath;
