@@ -1,0 +1,30 @@
+2021-02-21 18:22:42.420 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:2\2021022118224245507.png
+2021-02-21 18:22:42.459 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\coding\Image\O2O\2\2021022118224245507.png
+2021-02-21 18:26:11.753 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:3\2021022118261130099.png
+2021-02-21 18:26:11.778 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\coding\Image\O2O\3\2021022118261130099.png
+2021-02-21 18:31:02.167 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:5\2021022118310277952.png
+2021-02-21 18:31:02.198 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\coding\Image\O2O\5\2021022118310277952.png
+2021-02-21 18:37:20.816 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:upload\item\shop6\2021022118372082068.png
+2021-02-21 18:37:20.833 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\coding\Image\O2O\upload\item\shop6\2021022118372082068.png
+2021-02-21 18:45:52.785 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:upload\item\shop7\2021022118455234877.png
+2021-02-21 18:45:52.788 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\java\O2O\Imageupload\item\shop7\2021022118455234877.png
+2021-02-21 18:46:57.572 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:\upload\item\shop8\2021022118465725076.png
+2021-02-21 18:46:57.576 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\java\O2O\Image\upload\item\shop8\2021022118465725076.png
+2021-02-21 18:48:49.927 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:\upload\item\shop9\2021022118484979767.png
+2021-02-21 18:48:49.954 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\java\O2O\Image\upload\item\shop9\2021022118484979767.png
+2021-02-21 19:02:47.972 [main] DEBUG com.imooc.o2o.util.ImageUtil - file directory is created:E:\java\O2O\Image\upload\item\shop10
+2021-02-21 19:02:47.997 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:\upload\item\shop10\2021022119024786430.png
+2021-02-21 19:02:47.998 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\java\O2O\Image\upload\item\shop10\2021022119024786430.png
+2021-02-21 19:11:05.949 [main] DEBUG com.imooc.o2o.util.ImageUtil - file directory is created:E:\java\O2O\Image\upload\item\shop11\
+2021-02-21 19:11:05.951 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:\upload\item\shop11\2021022119110520994.png
+2021-02-21 19:11:05.952 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\java\O2O\Image\upload\item\shop11\2021022119110520994.png
+2021-02-21 19:18:49.647 [main] DEBUG com.imooc.o2o.util.ImageUtil - file directory is created:E:\java\O2O\Image\upload\item\shop13\
+2021-02-21 19:18:49.649 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:\upload\item\shop13\2021022119184956736.png
+2021-02-21 19:18:49.650 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\java\O2O\Image\upload\item\shop13\2021022119184956736.png
+2021-02-21 19:19:11.775 [main] DEBUG com.imooc.o2o.util.ImageUtil - file directory is created:E:\java\O2O\Image\upload\item\shop14\
+2021-02-21 19:19:11.777 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:\upload\item\shop14\2021022119191150721.png
+2021-02-21 19:19:11.777 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\java\O2O\Image\upload\item\shop14\2021022119191150721.png
+2021-02-21 19:25:02.209 [main] DEBUG com.imooc.o2o.service.impl.ShopServiceImpl - Insert Shop Success
+2021-02-21 19:25:02.215 [main] DEBUG com.imooc.o2o.util.ImageUtil - file directory is created:E:\java\O2O\Image\upload\item\shop15\
+2021-02-21 19:25:02.216 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is:\upload\item\shop15\2021022119250252969.png
+2021-02-21 19:25:02.216 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is:E:\java\O2O\Image\upload\item\shop15\2021022119250252969.png
