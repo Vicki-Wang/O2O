@@ -21,8 +21,10 @@ import com.imooc.o2o.service.AreaService;
 public class AreaController {
 	
 	Logger logger = LoggerFactory.getLogger(AreaController.class);
+	
 	@Autowired
 	private AreaService areaService;
+	
 	@RequestMapping(value="/listarea",method = RequestMethod.GET)
 	@ResponseBody
 	private Map<String,Object> listArea(){

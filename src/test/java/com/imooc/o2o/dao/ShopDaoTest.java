@@ -19,7 +19,7 @@ public class ShopDaoTest extends BaseTest{
 	private ShopDao shopDao;
 	
 	@Test
-	@Ignore
+@Ignore
 	public void testInsertShop(){
 		Shop shop = new Shop();
 		PersonInfo owner = new PersonInfo();
@@ -31,7 +31,7 @@ public class ShopDaoTest extends BaseTest{
 		shop.setOwner(owner);
 		shop.setArea(area);
 		shop.setShopCategory(shopCategory);
-		shop.setShopName("测试店铺2");
+		shop.setShopName("测试店铺8");
 		shop.setShopDesc("test");
 		shop.setShopAddr("test");
 		shop.setPhone("12312");
@@ -44,6 +44,7 @@ public class ShopDaoTest extends BaseTest{
 	}
 	
 	@Test
+	//@Ignore
 	public void testUpdateShop(){
 		Shop shop = new Shop();
 		shop.setShopId(5L);
@@ -56,9 +57,10 @@ public class ShopDaoTest extends BaseTest{
 		shop.setOwner(owner);
 		shop.setArea(area);
 		shop.setShopCategory(shopCategory);
-		shop.setShopName("测试店铺");
-		shop.setShopDesc("测试描述");
-		shop.setShopAddr("测试地址");
+		shop.setShopName("测试店铺321");
+		shop.setShopDesc("测试描述321");
+		shop.setShopAddr("测试地址321");
+		shop.setPhone("12312312");
 		shop.setLastEditTime(new Date());
 		int effectedNum = shopDao.updateShop(shop);
 		assertEquals(1,effectedNum);
